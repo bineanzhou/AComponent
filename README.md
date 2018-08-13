@@ -9,7 +9,7 @@
     </tr>
 </table>
 
-# AndroidModulePattern
+# AComponent
 
 Android项目组件化示例代码
 
@@ -17,7 +17,7 @@ Android项目组件化示例代码
 
 **Android组件化之终极方案**：http://blog.csdn.net/guiying712/article/details/78057120
 
-1. 现在的 AndroidModulePattern 使用 阿里ARouter作为路由；
+1. 现在的 AComponent 使用 阿里ARouter作为路由；
 
 2. Android组件化方案已经支持 **Fragment组件化**，使用方法请下载Demo查看；
 
@@ -57,7 +57,7 @@ Android项目组件化示例代码
 
 ## License
 
-    Copyright 2017 guiying712, AndroidModulePattern Open Source Project
+    Copyright 2017 guiying712, AComponent Open Source Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
