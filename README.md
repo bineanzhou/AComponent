@@ -55,6 +55,7 @@ Android项目组件化示例代码
 3. 声明APP需要的uses-permission；
 4. 定义全局通用的主题（Theme）；
 
+
 fork from AndroidModulePattern
 ## License
 
