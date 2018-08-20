@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AComponent.iml" filepath="$PROJECT_DIR$/AComponent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib_common/lib_common.iml" filepath="$PROJECT_DIR$/lib_common/lib_common.iml" />
+      <module fileurl="file://D:\acoin123\component\AComponent\lib_core\lib_common.iml" filepath="D:\acoin123\component\AComponent\lib_core\lib_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_core/lib_core.iml" filepath="$PROJECT_DIR$/lib_core/lib_core.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_app/module_app.iml" filepath="$PROJECT_DIR$/module_app/module_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_girls/module_girls.iml" filepath="$PROJECT_DIR$/module_girls/module_girls.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_main/module_main.iml" filepath="$PROJECT_DIR$/module_main/module_main.iml" />

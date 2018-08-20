@@ -1,4 +1,4 @@
-include ':lib_common',
+include ':lib_core',
         ':module_app',
         ':module_main',
         ':module_girls',
